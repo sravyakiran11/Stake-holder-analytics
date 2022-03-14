@@ -1,0 +1,21 @@
+Salesman_id,First _name,Last_name,Salesman_name,Gender,Age,Experience (Years),Marital_status,Sales_manager Name,Age_group,Experience
+SM-13,Neela,Chaudry ,Neela Chaudry ,Female,18,12,Married,Lalit Vijay,18-25,Experience Group
+SM-19,Maya,Malhotra ,Maya Malhotra ,Female,35,10,Single,Binod Banerjee,25-35,Experience Group
+SM-5,Bhola,Rampersad ,Bhola Rampersad ,Male,55,9,Single,Binod Banerjee,35+,Experience Group
+SM-6,Nalini,Majumdar ,Nalini Majumdar ,Female,20,9,Married,Lalit Vijay,18-25,Experience Group
+SM-12,Vijay,Dev,Vijay Dev,Male,40,9,Married,Neerendra Johal,35+,Experience Group
+SM-3,Jessica,Singhal ,Jessica Singhal ,Female,27,8,Single,Neerendra Johal,25-35,Experience Group
+SM-10,Deepa,Mangal ,Deepa Mangal ,Female,26,8,Single,Binod Banerjee,25-35,Experience Group
+SM-17,Manoj,Aggarwal,Manoj Aggarwal,Male,23,8,Married,Binod Banerjee,25-35,Experience Group
+SM-9,Tejaswani,Butala ,Tejaswani Butala ,Female,31,7,Single,Lalit Vijay,25-35,Experience Group
+SM-20,Nancy,Mohan,Nancy Mohan,Female,45,7,Single,Hetan Gaba,35+,Experience Group
+SM-7,Somnath,Chanda,Somnath Chanda,Male,21,6,Single,Lalit Vijay,18-25,Experience Group
+SM-11,Naresh,Ganguly,Naresh Ganguly,Male,20,5,Single,Binod Banerjee,18-25,Experience Group
+SM-16,Rebecca,Jones,Rebecca Jones,Female,34,5,Single,Hetan Gaba,25-35,Experience Group
+SM-2,Rakhi,Anne ,Rakhi Anne ,Female,30,3,Single,Neerendra Johal,25-35,Experience Group
+SM-15,Shweta,Kalla ,Shweta Kalla ,Female,29,3,Single,Lalit Vijay,25-35,Experience Group
+SM-18,Jawahar,Sawant,Jawahar Sawant,Male,23,3,Married,Ramesh Jagdish,18-25,Experience Group
+SM-1,Wahid,Khan,Wahid Khan,Male,18,2,Single,Binod Banerjee,18-25,Experience Group
+SM-8,Veena,Bath ,Veena Bath ,Female,31,2,Married,Ramesh Jagdish,25-35,Experience Group
+SM-14,Usha,Chohan ,Usha Chohan ,Female,29,2,Single,Gaurav Ram,25-35,Experience Group
+SM-4,Samuel,George,Samuel George,Male,18,1,Single,Gaurav Ram,18-25,Experience Group

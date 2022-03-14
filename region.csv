@@ -1,0 +1,26 @@
+City-id,City,State,Region,Population
+CT-1,Amaravati,Andhra Pradesh,Southern,58298
+CT-2,Itanagar,Arunachal Pradesh,Northern,42889
+CT-3,Dispur,Assam,Northern,40347
+CT-4,Patna,Bihar,Eastern,123540
+CT-5,Naya Raipur,Chhattisgarh,Central,81971
+CT-6,Panaji,Goa,Western,97877
+CT-7,Gandhinagar,Gujarat,Western,37213
+CT-8,Chandigarh,Haryana,Northern,50458
+CT-9,Shimla,Himachal Pradesh,Northern,77846
+CT-10,Ranchi,Jharkhand,Eastern,201332
+CT-11,Bengaluru (formerly Bangalore),Karnataka,Southern,646449
+CT-12,Thiruvananthapuram,Kerala,Southern,233394
+CT-13,Bhopal,Madhya Pradesh,Central,56069
+CT-14,Mumbai,Maharashtra,Western,47777
+CT-15,Imphal,Manipur,Northern,37839
+CT-16,Shillong,Meghalaya,Northern,50699
+CT-17,Aizawl,Mizoram,Northern,41889
+CT-18,Kohima,Nagaland,Northern,113972
+CT-19,Bhubaneswar,Odisha,Eastern,42774
+CT-20,Chandigarh,Punjab,Northern,229972
+CT-21,Jaipur,Rajasthan,Northern,65184
+CT-22,Gangtok,Sikkim,Northern,181260
+CT-23,Chennai,Tamil Nadu,Southern,41705
+CT-24,Hyderabad,Telangana,Southern,152730
+CT-25,Kolkata,West Bengal,Eastern,96205
